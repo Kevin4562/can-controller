@@ -13,9 +13,11 @@
 
 ## Getting Started
 
-### Installation
-
+# Requirements
 Python 3.7+
+Linux
+
+### Installation
 
 Install Linux can-utils:
 ```
