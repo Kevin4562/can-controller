@@ -15,6 +15,8 @@
 
 ### Installation
 
+Python 3.7+
+
 Install Linux can-utils:
 ```
 sudo apt-get install can-utils -y
