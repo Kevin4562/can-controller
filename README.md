@@ -14,8 +14,8 @@
 ## Getting Started
 
 #### Requirements
-Python 3.7+
-Linux
+* Python 3.7+
+* Linux
 
 ### Installation
 
