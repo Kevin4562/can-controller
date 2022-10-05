@@ -35,7 +35,7 @@ python -m pip install -r requirements.txt
 
 
 ## Usage
-1. Insert USB2CAN & connect PS4 Controller
+1. Connect USB2CAN & PS4 Controller
 
 ```
 sudo ip link set can0 type can bitrate 500000
