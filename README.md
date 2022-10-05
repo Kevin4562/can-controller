@@ -16,6 +16,8 @@
 #### Requirements
 * Python 3.7+
 * Linux
+* PS4 Controller
+* USB2CAN
 
 ### Installation
 
